@@ -8,6 +8,11 @@
 
 Foundation for Emails (previously known as Ink) is a framework for creating responsive HTML emails that work in any email client &mdash; even Outlook. Our HTML/CSS components have been tested across every major email client to ensure consistency. And with the [Inky](https://github.com/zurb/inky) templating language, writing HTML emails is now even easier.
 
+
+## About this fork...
+ Until our friends at Foundation decide to merge the PR [#509](https://github.com/zurb/foundation-emails/pull/509) this temporary fork will include the "fix hide-for-large in Gmail, Yahoo and Outlook 2016" suggested by @sergeylikin. This REPO is totally independant from zurb/foundation-emails and will be available until the merge is accepted. After that I will no longer support or host this repo.
+
+
 ## Getting Started
 
 The main way to get started is with our [email template stack](https://github.com/zurb/foundation-emails-template). To use the stack, you'll need [Node.js](https://nodejs.org/en/) installed on your machine.
